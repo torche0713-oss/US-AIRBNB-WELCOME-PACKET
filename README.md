@@ -6,7 +6,7 @@ Thank you for purchasing LuxeHost Kit US! Here's how to get started:
 - **Welcome Packet Generator** (`generator.html`) - A self-contained tool to create beautiful, mobile-friendly Airbnb welcome packets
 
 ## Payment Details
-- **Amount:** $7
+- **Amount:** $13
 - **Payment Method:** Gumroad
 - **Gumroad Product:** LuxeHost Kit US - Airbnb Welcome Guide
 
