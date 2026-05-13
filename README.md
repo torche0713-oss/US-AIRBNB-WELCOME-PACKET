@@ -13,7 +13,7 @@ Thank you for purchasing LuxeHost Kit US! Here's how to get started:
 ## Step-by-Step Instructions
 
 ### 1. Make Payment
-Pay $7 on Gumroad: **https://apexmindagency.gumroad.com/l/airbnbwelcomepacket**
+Pay $13 on Gumroad: **https://apexmindagency.gumroad.com/l/airbnbwelcomepacket**
 
 ### 2. Get Access
 After payment, Gumroad will instantly give you access to download:
